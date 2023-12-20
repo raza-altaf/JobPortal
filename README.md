@@ -2,7 +2,7 @@
 
 This project is a Job Portal Website developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides features for posting jobs, viewing job listings, updating job details, and more.
 
-![mern-job-portal-website](/job-portal-client/src//assets/MERN%20STACK.png)
+![mern-job-portal-website](/job-portal-client/src//assets/HomePage.png)
 
 ## Table of Contents
 
